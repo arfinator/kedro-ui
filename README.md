@@ -1,3 +1,7 @@
+# 🚨 Deprecation Warning 🚨
+
+Kedro-UI has been deprecated. There will be no further active development on this repo. You can continue using [kedro-ui@1.1.7 package](https://www.npmjs.com/package/@quantumblack/kedro-ui) published on npm. However, if you require further changes, please consider forking.
+
 # Kedro UI
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
